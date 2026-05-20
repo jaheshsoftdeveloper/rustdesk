@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "JaheshDesk"
 version = "1.4.6"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["JaheshDesk <info@Jaheshnovin.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "JaheshNovin Remote Desktop"
+default-run = "JaheshDesk"
 rust-version = "1.75"
 
 [lib]
